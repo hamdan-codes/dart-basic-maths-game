@@ -1,4 +1,4 @@
-# flutter-basic-maths-game
+# dart-basic-maths-game
 ## Just Started learning Dart.
 ## I used replit to code everything.
 ### Code Link: https://replit.com/@ChaudharyHamdan/dartIntro#main.dart
